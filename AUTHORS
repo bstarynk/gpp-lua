@@ -3,3 +3,10 @@ Authors of GPP.
 GPP was written by Denis Auroux <auroux@math.mit.edu>.  Since version
 2.12 it has been maintained by Tristan Miller
 <tristan@logological.org>.
+
+The GPP-LUA is a fork of the GPP generic preprocessor (see
+https://github.com/logological/gpp/ ...) adding the LUA scripting
+language in it. Lua is a scripting language. See https://lua.org/
+
+GPP-LUA is forked by Basile Starynkevitch in France
+<basile@starynkevitch.net> and <basile.starynkevitch@cea.fr>
